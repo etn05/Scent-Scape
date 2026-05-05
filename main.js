@@ -1,5 +1,4 @@
 // ─────────────────────────────────────────────────────────────────────────────
-//  Floating Grove — a stylized forest diorama
 //  A small, polished Three.js scene with:
 //   · procedurally-built floating island + props
 //   · warm painterly PBR lighting + soft shadows
@@ -318,12 +317,12 @@ function createScene() {
     { at: [-2.6, 0, -2.3], s: 0.85 },
   ];
   const fernLabels = [
-    { label: 'Fresh',    scent: 'grassy · dew · green sap' },
-    { label: 'Fresh',    scent: 'grassy · dew · green sap' },
-    { label: 'Fresh',    scent: 'grassy · dew · green sap' },
-    { label: 'Fresh',        scent: 'grassy · dew · green sap' },
-    { label: 'Fresh',        scent: 'grassy · dew · green sap' },
-    { label: 'Fresh',        scent: 'grassy · dew · green sap' },
+    { label: 'Fresh',    scent: 'Grassy · Dew · Green Sap' },
+    { label: 'Fresh',    scent: 'Grassy · Dew · Green Sap' },
+    { label: 'Fresh',    scent: 'Grassy · Dew · Green Sap' },
+    { label: 'Fresh',        scent: 'Grassy · Dew · Green Sap' },
+    { label: 'Fresh',        scent: 'Grassy · Dew · Green Sap' },
+    { label: 'Fresh',        scent: 'Grassy · Dew · Green Sap' },
   ];
   fernSpots.forEach((f, i) => {
     const fern = createFern(f.s);
