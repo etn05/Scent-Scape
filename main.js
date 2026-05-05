@@ -24,11 +24,11 @@ const swayables      = [];     // things that gently sway (plants, grass…)
 let raycaster, pointerNdc;
 let hoveredRoot = null;
 let labelEl, labelText, labelSub;
-const ASSET_LINKS = {
-  woody: 'https://emilytnguyen.framer.website/works',
-  floral: 'https://emilytnguyen.framer.website/about',
-  fresh: 'https://emilytnguyen.framer.website/',
-};
+// const ASSET_LINKS = {
+//   woody: '',
+//   floral: '',
+//   fresh: '',
+// };
 
 const keys = Object.create(null);
 
