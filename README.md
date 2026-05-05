@@ -3,7 +3,7 @@ https://etn05.github.io/Scent-Scape/
 
 # Scense — 3JS Scent Scape
 
-A 3D interactive scent space built with Three.js for **Hybrid Visual Identity / Brand Development**.
+A 3D interactive scent space built with Three.js for NYU's **Hybrid Visual Identity / Brand Development**.
 
 This project explores how scent can be experienced digitally through visual interaction. Instead of smelling a fragrance physically, users navigate a virtual environment where scents are represented through 3D objects, atmosphere, color, texture, and movement.
 
