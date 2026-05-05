@@ -1,3 +1,5 @@
+# 3JS Scent-Scape
+
 ## What's inside
 
 - `index.html` — page shell, HUD, styles, and the hover label
